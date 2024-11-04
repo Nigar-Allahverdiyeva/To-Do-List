@@ -1,0 +1,9 @@
+{
+    "tasks": [
+      { "id": 1, "text": "React öyrən." },
+      { "id": 2, "text": "Responsivlik bacarığını artır." },
+      { "id": 3, "text": "Öyrənməyi dayandırma!" },
+      { "id": 4, "text": "Yeni Front-End bacarıqları əldə et." }
+    ]
+  }
+  
